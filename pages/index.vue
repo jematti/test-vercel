@@ -5,6 +5,8 @@
       <Logo />
       <h1 class="title">
         webdux
+        Documentation Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique nihil aut saepe quibusdam consequuntur mollitia neque, libero, blanditiis, voluptates aliquid iste maiores consectetur ratione deleniti odit expedita sequi soluta eos.
+
       </h1>
       <div class="links">
         <a
