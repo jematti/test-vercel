@@ -13,7 +13,7 @@
           rel="noopener noreferrer"
           class="button--green"
         >
-          Documentation
+          Documentation Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique nihil aut saepe quibusdam consequuntur mollitia neque, libero, blanditiis, voluptates aliquid iste maiores consectetur ratione deleniti odit expedita sequi soluta eos.
         </a>
         <a
           href="https://github.com/nuxt/nuxt.js"
